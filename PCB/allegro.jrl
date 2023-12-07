@@ -1,0 +1,84 @@
+\t (00:00:02) allegro 17.4 S037 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Dec  7 20:25:32 2023
+\t (00:00:02)         Host=ITX User=15291 Pid=19564 CPUs=8
+\t (00:00:02) CmdLine= d:\cadence\spb_17.4\tools\bin\allegro.exe D:\Projects\Battery_Module\PCB\BAT_MODULE.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:03) Loading skillExt.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/Projects/Battery_Module/PCB/BAT_MODULE.brd
+\i (00:00:06) trapsize 2505
+\i (00:00:06) trapsize 2543
+\i (00:00:06) trapsize 2546
+\i (00:00:06) trapsize 2586
+\i (00:00:07) generaledit 
+\i (00:00:07) pick grid 5.2097 -9.9839
+\t (00:00:07) last pick:  5.2000 -10.0000
+\i (00:00:10) Delete 
+\i (00:00:11) drag_start grid -16.8732 0.8765
+\i (00:00:11) drag_stop -7.3574 -8.0704
+\t (00:00:11) Symbol "R1"
+\i (00:00:11) pick grid -6.6333 -8.4842
+\t (00:00:11) last pick:  -6.6000 -8.5000
+\i (00:00:11) prepopup -6.5299 -1.0887
+\i (00:00:11) done 
+\i (00:00:12) generaledit 
+\i (00:00:12) pick grid -10.6155 0.7214
+\t (00:00:12) last pick:  -10.6000 0.7000
+\i (00:00:13) place manual 
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:13) setwindow form.plc_manual
+\i (00:00:13) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:14) FORM plc_manual tree  L1 'Components by refdes' 
+\i (00:00:15) FORM plc_manual tree  R1 'Components by refdes' 
+\i (00:00:16) FORM plc_manual tree 'MULTISEL YES' R1 'Components by refdes' 
+\t (00:00:16) Placing R1 / R_R0603_DISCRETE_0R_E01R001 / R0603 on Top.
+\i (00:00:19) setwindow pcb
+\i (00:00:19) pick grid -15.8906 1.2903
+\t (00:00:19) last pick:  -15.9000 1.3000
+\i (00:00:19) setwindow form.plc_manual
+\i (00:00:19) FORM plc_manual propbtn YES 
+\i (00:00:21) FORM plc_manual prevbtn YES 
+\i (00:00:21) FORM plc_manual tree  L1 'Components by refdes' 
+\i (00:00:22) FORM plc_manual tree 'MULTISEL YES' L1 'Components by refdes' 
+\t (00:00:22) Placing L1 / L_IND-SMD_11X10_2MM_DISCRETE_2.2UH_E03L002 / IND-SMD_11X10_2MM on Top.
+\i (00:00:24) setwindow pcb
+\i (00:00:24) pick grid 0.3484 -10.3977
+\t (00:00:24) last pick:  0.3000 -10.4000
+\i (00:00:25) setwindow form.plc_manual
+\i (00:00:25) FORM plc_manual done  
+\i (00:00:25) setwindow pcb
+\i (00:00:25) generaledit 
+\i (00:00:26) show element 
+\i (00:00:27) pick grid -15.7354 1.6523
+\t (00:00:27) last pick:  -15.7000 1.7000
+\i (00:00:30) setwindow text
+\i (00:00:30) close
+\i (00:00:31) setwindow pcb
+\i (00:00:31) pick grid 40.7390 -5.4846
+\t (00:00:31) last pick:  40.7000 -5.5000
+\i (00:00:31) zoom in 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom in 9.4505 -12.0526
+\i (00:00:31) trapsize 1293
+\i (00:00:32) prepopup 13.8205 -4.1141
+\i (00:00:32) done 
+\i (00:00:32) generaledit 
+\i (00:00:32) pick grid 11.5967 -0.6749
+\t (00:00:32) last pick:  11.6000 -0.7000
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 29.7750 -3.4935
+\i (00:00:32) trapsize 2586
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 29.7751 -3.4935
+\i (00:00:32) trapsize 5172
+\i (00:00:33) save 
+\i (00:00:33) fillin yes 
+\i (00:00:34) generaledit 
+\i (00:00:34) pick grid 3.6066 -42.4876
+\t (00:00:34) last pick:  3.6000 -42.5000
+\i (00:00:34) exit 
+\t (00:00:35)     Journal end - Thu Dec  7 20:26:05 2023
