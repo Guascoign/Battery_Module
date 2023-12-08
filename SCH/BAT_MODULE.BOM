@@ -1,0 +1,29 @@
+"MPPT  Revised: Friday, December 08, 2023"									
+          Revision: 1.0									
+									
+									
+									
+									
+									
+									
+									
+"Bill Of Materials       December 8,2023      18:52:16"	Page1								
+									
+Item	Quantity	Reference	Part	Description	JLC ID	Manufacturer	ProductName	Tolerance	Voltage
+______________________________________________									
+									
+1	3	"C1,C4,C15"	0.1uF	X7R 50V ±10% 0603			贴片电容	±10%	50V
+2	1	C5	47pF	X7R 50V ±10% 0603			贴片电容	±10%	50V
+3	2	"C6,C7"	47nF	X7R 50V ±10% 0603			贴片电容	±10%	50V
+4	1	C8	1uF	X7R 50V ±10% 0603			贴片电容	±10%	50V
+5	3	"C9,C10,C11"	22uF	X5R 25V ±10% 1206	C12891	SAMSUNG(三星)	贴片电容	±10%	50V
+6	2	"C12,C14"	10uF	X7R 50V ±10% 1206			贴片电容	±10%	50V
+7	1	L1	2.2uH	2.2uH ±20% 18A	C439298	GLE(格莱尔)	电感	±20%	
+8	1	R1	255K	1/10W 0603			贴片电阻	±1%	N/A
+9	1	R2	502K	1/10W 0603			贴片电阻	±1%	N/A
+10	1	R3	56K	1/10W 0603			贴片电阻	±1%	N/A
+11	1	R4	17.4K	1/10W 0603			贴片电阻	±1%	N/A
+12	1	R5	100K	1/10W 0603			贴片电阻	±1%	N/A
+13	3	"R6,R7,R8"	10K	1/10W 0603			贴片电阻	±1%	N/A
+14	1	S1	SK-3296S-01-L3	柄长2.5mm 卧贴双档 滑动开关	C319019	中国星坤	滑动开关		
+15	1	U1	TPS61088RHLR	具有 10A 开关的 13.2V 输出，同步升压转换器	C87357	TI(德州仪器)	DCDC升压		
