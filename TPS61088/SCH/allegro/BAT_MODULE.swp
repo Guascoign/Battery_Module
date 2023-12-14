@@ -1,0 +1,35 @@
+;*********************************************************
+;                                                        *
+; OrCAD Backannotation File                              *
+; Using  PSTWRITER 17.4.0 d001                            *
+; Dec-13-2023 at 19:30:51                                *
+;                                                        *
+;*********************************************************
+
+
+.Section1 Flags
+DesignName=D:\PROJECTS\BATTERY_MODULE\SCH\BAT_MODULE.DSN
+.End
+
+.Section2 GateAndPinSwap
+	CHANGEREF C1 C4
+	CHANGEREF C10 C7
+	CHANGEREF C11 C8
+	CHANGEREF C12 C10
+	CHANGEREF C14 C11
+	CHANGEREF C15 C9
+	CHANGEREF C4 C1
+	CHANGEREF C5 C2
+	CHANGEREF C6 C3
+	CHANGEREF C7 C12
+	CHANGEREF C8 C5
+	CHANGEREF C9 C6
+	CHANGEREF R1 R5
+	CHANGEREF R2 R7
+	CHANGEREF R3 R4
+	CHANGEREF R4 R6
+	CHANGEREF R5 R3
+	CHANGEREF R6 R2
+	CHANGEREF R7 R1
+.End
+
